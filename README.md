@@ -4,6 +4,8 @@
 - 🌱 I’m currently working on improving my React and Node skills.
 - ⚡ Fun fact: I love movies, games and sports!
 
+![Views](https://komarev.com/ghpvc/?username=arTW0&style=for-the-badge&color=282a36)
+
 ## My Contacts
 <div> 
   <a href="https://www.linkedin.com/in/arthur-neves-a321b716b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -36,5 +38,6 @@
 ## Interesting Repos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arTW0&repo=notifications-service&theme=dracula)](https://github.com/arTW0/notifications-service)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arTW0&repo=aluroni-router&theme=dracula)](https://github.com/arTW0/aluroni-router)
+
 
 
