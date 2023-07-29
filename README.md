@@ -44,8 +44,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arTW0&theme=dracula&layout=compact)](https://github.com/arTW0/github-readme-stats)
 
 ## Interesting Repos
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arTW0&repo=aluroni-router&theme=dracula)](https://github.com/arTW0/NLW-Spacetime-Web)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arTW0&repo=aluroni-router&theme=dracula)](https://github.com/arTW0/NLW-Spacetime-Server)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arTW0&repo=notifications-service&theme=dracula)](https://github.com/arTW0/notifications-service)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arTW0&repo=aluroni-router&theme=dracula)](https://github.com/arTW0/aluroni-router)
-
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arTW0&repo=aluroni-router&theme=dracula)](https://github.com/arTW0/typescript-api-rocketseat)
 
